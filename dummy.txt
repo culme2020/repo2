@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8ADB-46FF
+
+ Directory of C:\automation\dummygit
+
+01/07/2020  16:41    <DIR>          .
+01/07/2020  16:41    <DIR>          ..
+01/07/2020  16:41                 0 dummy.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  837,623,074,816 bytes free
